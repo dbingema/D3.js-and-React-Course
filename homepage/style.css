@@ -1,0 +1,26 @@
+#main-header {
+  background-color: #f0f0f0;
+  color: #333333;
+  padding: 20px;
+  text-align: center;
+}
+#h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 28px;
+  font-style: bold;
+  color: darkblue;
+}
+#icon {
+  border-radius: 50%;
+}
+#name {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  color: darkgreen;
+}
+#tag-line {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  font-style: italic;
+  color: darkslateblue;
+}
